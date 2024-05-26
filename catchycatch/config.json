@@ -1,0 +1,35 @@
+{
+  "behavior": {
+    "Sleeping": true,
+    "Catching": true,
+    "Spamming": false
+  },
+  "incense": {
+    "IncenseMode": true,
+    "AutoIncenseBuy": true,
+    "IncenseChannel": "1244319474409017538"
+  },
+  "spamming": {
+    "SpamSpeed": "2000",
+    "SpamChannel": "1244319515190362213"
+  },
+  "logging": {
+    "LogCatches": true,
+    "LowIVThreshold": "10.00",
+    "HighIVThreshold": "85.00",
+    "LogWebhook": "https://discord.com/api/webhooks/1244321604670849059/X0SfP8i6V6NR5qQLzlSDCAeDFSF41ZjKfDXbAb4i9vVrKwMuGQmvkaL2uw6wyt80qJul"
+  },
+  "ownership": {
+    "OwnerIDs": ["1244319060209045556", "..."],
+    "CommandPrefix": "@Pokétwo#8236"
+  },
+  "globalSettings": {
+    "GlobalCatch": false,
+    "BlacklistedGuilds": ["716390832034414685", "..."]
+  },
+  "shinyHunting": {
+    "HuntPokemons": ["corsola", "aerodactyl", "walking wake"],
+    "HuntToken": "HuntToken"
+  },
+  "debug": true
+}
